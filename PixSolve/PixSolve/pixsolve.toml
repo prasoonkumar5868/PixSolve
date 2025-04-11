@@ -3,7 +3,7 @@ name = "PixSolve"
 version = "0.0.1"
 description = 'PixSolve: A mathematical expression Recogniser and Solver'
 requires-python = ">=3.14"
-authors = ["Prem Nath <premnath5761@gmail.com>"]
+authors = ["multiple"]
 readme = "README.md"
 repository = ""
 include = [
